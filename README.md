@@ -6,7 +6,13 @@
 
 ## 现状
 
-由于小鹤官方的词库是「闭源」的，并且在禁止反编译的情况下难以导出，我已经放弃小鹤音形，转而使用[星空键道](https://github.com/xkinput/Rime_JD)（入门推荐[这个第三方教程](https://pingshunhuangalex.gitbook.io/rime-xkjd/)），词库版本就无限期停留在 [v9.9m](https://github.com/amorphobia/openfly/releases/tag/v9.9m)。但这个仓库不会归档，因此有任何词库上、lua 代码上的更新，欢迎提出拉取请求。如果有公认的更好的分叉仓库，我会更新 README 引流过去。
+由于小鹤官方的词库是「闭源」的，并且在禁止反编译的情况下难以导出，原仓库词库版本就无限期停留在 [v9.9m](https://github.com/amorphobia/openfly/releases/tag/v9.9m)。
+
+目前我使用笨办法（复制粘贴）从小鹤官方的词库中得到了 10.9 版本的首选字词、次选字词、表外、符号、快符、随心、全码词、全码字、二重简码词库，并人工校对了一遍（除了符号词库）。
+
+反查词库是用[官方版 Rime 挂载配方](http://flypy.ys168.com/)的 `flypydz.table.bin` 处理后得到的 `flypydz.dict.yaml` 再调整成适合本配方的格式。
+
+内嵌提示则较为复杂，通过用[官方版 Rime 挂载配方](http://flypy.ys168.com/)的 `flypy.table.bin` 处理后得到的 `flypy.dict.yaml`，`flypy_sys.txt` 中的三码填空部分以及仓库原有的 `openfly.embedded.hint.dict` 综合比对而成。
 
 ## 问题和资源
 
@@ -43,10 +49,8 @@ $ bash rime-install amorphobia/openfly@merged_dict:update
 由于 plum 不能自动为 lua 脚本打补丁，因此还需手动在 `rime.lua` 文件中添加以下代码：
 <span id="patch"></span>
 ```lua
-openfly_shortcut_processor = require("openfly_shortcut_processor")
 openfly_date_translator = require("openfly_date_translator")
 openfly_time_translator = require("openfly_time_translator")
-openfly_shortcut_translator = require("openfly_shortcut_translator")
 openfly_hint_filter = require("openfly_hint_filter")
 openfly_deletion_filter = require("openfly_deletion_filter")
 ```
@@ -72,12 +76,10 @@ $ bash rime-install amorphobia/openfly@<tag>
 ## 词典分类
 
 - **首选字词** openfly.primary.dict.yaml
-- **次选字** openfly.secondary.char.dict.yaml
-- **次选词** openfly.secondary.word.dict.yaml
+- **次选字词** openfly.secondary.dict.yaml
 - **表外字** openfly.off-table.dict.yaml
 - **符号编码** openfly.symbols.dict.yaml
 - **快符号** openfly.fast.symbols.dict.yaml
-- **直通车** 部分实现，见[直通车](#直通车)部分
 - **随心所欲** openfly.whimsicality.dict.yaml
 - **隐藏全码** 未直接收录，反查词典是基于全码首选的单字和隐藏全码的单字生成
 - **二重简码** openfly.secondary.short.code.dict.yaml, 默认开启，可在 `openfly.dict.yaml` 里注释掉以关闭
@@ -85,22 +87,7 @@ $ bash rime-install amorphobia/openfly@<tag>
 
 ## 直通车
 
-[官方版 Rime 挂载配方](http://flypy.ys168.com/)已通过 `lua_translator` 实现时间和日期的输入，本配方稍作修改，使其与官方安装版输出一致。
-
-四个小鹤的网址放在 `openfly.web.dict.yaml` 里，与官方安装版不同的是，网址是作为上屏词组输出，而非直接运行浏览器打开。
-
-直通车中打开外部程序的命令通过 `lua_processor` 实现。由于 [Lua 中 `os.execute` 的限制](https://stackoverflow.com/a/6365296/6676742)，在 Windows 中运行命令时会闪现一个命令提示符窗口。
-
-已实现的快捷指令（括号内标注已实现平台）：
-
-- `oav` 打开 Rime 程序目录 (Windows/macOS)
-- `ocm` 打开命令提示符或终端 (Windows/macOS)
-- `odn` 文件管理器 (Windows/macOS)
-- `oec` Excel (Windows/macOS)
-- `ogj` 高级设置，即打开 Rime 用户目录 (Windows/macOS)
-- `oht` 画图软件 (Windows)
-- `ojs` 计算器 (Windows/macOS)
-- `owd` Word (Windows/macOS)
+仅保留 `orq` 日期，`ouj` 时间，想要更多直通车可以把原仓库的 lua 粘贴回来。
 
 ## 删词功能
 
