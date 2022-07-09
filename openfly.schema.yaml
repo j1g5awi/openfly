@@ -22,8 +22,12 @@ switches:
   - name: full_shape
   - name: simplification
     reset: 0
+    states: [ 汉字, 漢字 ]
   - name: ascii_punct
     reset: 0
+  - name: openfly_enable_2nd_short
+    states: [ 二重简码关, 二重简码开 ]
+    reset: 1
 
 engine:
   processors:
