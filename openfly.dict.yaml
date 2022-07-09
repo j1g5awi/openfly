@@ -17,7 +17,6 @@ import_tables:
   - 'openfly.off-table'
   - 'openfly.whimsicality'
   - 'openfly.symbols'
-  - 'openfly.web'
   - 'openfly.uncommon'
   - 'openfly.user'
 ...

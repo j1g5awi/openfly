@@ -6,7 +6,7 @@
 
 ---
 name: openfly.symbols
-version: "v9.9m"
+version: "10.9"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -39,8 +39,8 @@ use_preset_vocabulary: false
 既左部	obg	100
 艮	obg	99
 鬼	obg	98
-骨	obg	97
-革	obg	96
+革	obg	97
+骨	obg	96
 灬	obh	100
 虍	obh	99
 黑	obh	98
@@ -97,8 +97,8 @@ use_preset_vocabulary: false
 ⺌	obx	97
 ⺗	obx	96
 讠	oby	100
-⺷	oby	99
-⺶	oby	98
+⺶	oby	99
+⺷	oby	98
 𧘇	oby	97
 羊	oby	96
 ⻊	obz	100
@@ -866,8 +866,8 @@ $ofyu`u(圆圈数字)①②③	ofy
 /gz	oqgv
 /gy	oqgy
 /hb	oqhb
-/yhh	oqhh
 /zhh	oqhh
+/yhh	oqhh
 /hn	oqhn
 /hq	oqhq
 /ht	oqht
@@ -885,6 +885,7 @@ $ofyu`u(圆圈数字)①②③	ofy
 /jk	oqjk
 /jw	oqjw
 /jx	oqjx
+/jiaybs	oqjy
 /jy	oqjy
 /ka	oqka
 /kb	oqkb
@@ -895,6 +896,7 @@ $ofyu`u(圆圈数字)①②③	ofy
 /kl	oqkl
 /kt	oqkt
 /kuk	oqku
+/kzht	oqkv
 /kun	oqky
 /lb	oqlb
 /lengh	oqlh
@@ -961,8 +963,8 @@ $ofyu`u(圆圈数字)①②③	ofy
 /zj	oqzj
 /wzm	oqzm
 ……	os
-α	ota	100
-＆	ota	99
+＆	ota	100
+α	ota	99
 %	otb	100
 β	otb	99
 ©	otb	98
