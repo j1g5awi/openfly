@@ -6,7 +6,7 @@
 
 ---
 name: openfly.secondary.char
-version: "10.9"
+version: "10.9a" # 缺一词
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -44,7 +44,6 @@ use_preset_vocabulary: false
 帮倒忙	bdm
 百色	bdse
 拜堂	bdth
-宝刀未老	bdwl
 不得要领	bdyl
 不得已而为之	bdyv
 膀大腰圆	bdyy
@@ -130,12 +129,14 @@ use_preset_vocabulary: false
 不是冤家不聚头	buyt
 捕鱼	buyu
 不畏艰难	bwjn
+贝壳	bwke
 百无聊赖	bwll
 不问青红皂白	bwqb
 背弃	bwqi
 不外如是	bwru
 百无一用	bwyy
 百味杂陈	bwzi
+报喜不报忧	bxby
 巴西利亚	bxly
 百依百顺	bybu
 比翼齐飞	byqf
@@ -151,6 +152,7 @@ use_preset_vocabulary: false
 大错	daco
 大涨	davh
 大侠	daxx
+独霸一方	dbyf
 捣蛋	dcdj
 打草惊蛇	dcju
 多此一举	dcyj
@@ -171,6 +173,7 @@ use_preset_vocabulary: false
 达官贵人	dggr
 蹬踏	dgta
 电光石火	dguh
+大惑不解	dhbj
 打火机	dhj
 大汗淋漓	dhll
 调虎离山	dhlu
@@ -287,6 +290,7 @@ use_preset_vocabulary: false
 放射性	fux
 放手一搏	fuyb
 赋予	fuyu
+飞沙走石	fuzu
 分钟	fv
 防微杜渐	fwdj
 服务器	fwq
@@ -461,7 +465,7 @@ use_preset_vocabulary: false
 红颜知己	hyvj
 好逸恶劳	hywl
 和颜悦色	hyys
-馇	iau
+插手	iauz
 诧异	iayi
 焯	ich
 潮湿	icui
@@ -493,7 +497,6 @@ use_preset_vocabulary: false
 氅	ihx
 怅	ihxi
 尝鲜	ihxm
-超乎想象	ihxx
 尝尝	ii
 鸱	iid
 彻彻底底	iidd
@@ -603,11 +606,10 @@ use_preset_vocabulary: false
 惊艳	jkyj
 晶莹	jkyk
 煎	jmb
-剪彩	jmcd
+剪裁	jmcd
 溅	jmd
 剪刀	jmdc
 坚定	jmdk
-间断	jmdr
 坚固	jmgu
 监察	jmia
 见解	jmjp
@@ -785,10 +787,10 @@ use_preset_vocabulary: false
 螺蛳	losi
 蠃	low
 洌	lpdd
-留点	lqdm
 琉璃	lqli
 骝	lqm
 两全其美	lqqm
+离群索居	lqsj
 留宿	lqsu
 流逝	lqui
 利人不利己	lrbj
@@ -837,8 +839,10 @@ use_preset_vocabulary: false
 麋	mig
 糜烂	milj
 门可罗雀	mklq
+猫哭老鼠	mklu
 暝	mkob
 眉开眼笑	mkyx
+名落孙山	mlsu
 慢慢	mm
 沔	mmd
 懵懵懂懂	mmdd
@@ -870,6 +874,8 @@ use_preset_vocabulary: false
 美貌	mwmc
 媒	mwn
 面无人色	mwrs
+梅雨	mwyu
+名言警句	myjj
 鸟尽弓藏	njgc
 南海	njhd
 难堪	njkj
@@ -901,7 +907,7 @@ use_preset_vocabulary: false
 芑	qic
 漆	qid
 沏	qidd
-起点	qidm
+七点	qidm
 奇耻大辱	qidr
 气愤	qiff
 起伏	qifu
@@ -926,6 +932,7 @@ use_preset_vocabulary: false
 起义	qiyi
 青出于蓝而胜于蓝	qiyl
 契约	qiyt
+棋子	qizi
 情况	qk
 轻敌	qkdi
 清淡	qkdj
@@ -950,7 +957,6 @@ use_preset_vocabulary: false
 巧立名目	qlmm
 勤劳致富	qlvf
 千里眼	qly
-青睐有加	qlyj
 前面	qm
 骞	qmb
 奇门遁甲	qmdj
@@ -985,6 +991,7 @@ use_preset_vocabulary: false
 诠释	qrui
 情人眼里出西施	qryu
 醛	qryw
+前人栽树	qrzu
 齐头并进	qtbj
 缺失	qtui
 千挑万选	qtwx
@@ -1042,6 +1049,7 @@ use_preset_vocabulary: false
 天寒地冻	thdd
 谈虎色变	thsb
 嚏	tik
+同吃同住	titv
 推荐	tj
 拖家带口	tjdk
 条件反射	tjfu
@@ -1350,7 +1358,6 @@ use_preset_vocabulary: false
 无商不奸	wubj
 误导	wudc
 万事大吉	wudj
-污点	wudm
 蜈蚣	wugs
 无故	wugu
 为时过早	wugz
@@ -1382,6 +1389,7 @@ use_preset_vocabulary: false
 卫冕	wwmm
 歪歪扭扭	wwnn
 围棋	wwqi
+弯弯曲曲	wwqq
 玩物丧志	wwsv
 畏	wwt
 完完整整	wwvv
@@ -1540,7 +1548,6 @@ use_preset_vocabulary: false
 摇摆不定	ybbd
 欲罢不能	ybbn
 引渡	ybdu
-一般见识	ybju
 愚不可及	ybkj
 眼波流转	yblv
 一笔抹杀	ybmu
@@ -1784,7 +1791,6 @@ use_preset_vocabulary: false
 犹豫	yzyu
 匝道	zadc
 总共	zg
-锃亮	zgll
 渍	zid
 自驾	zijx
 姿色	zise

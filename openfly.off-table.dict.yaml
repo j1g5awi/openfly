@@ -6,7 +6,7 @@
 
 ---
 name: openfly.off-table
-version: "10.9"
+version: "10.9a"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -91,6 +91,8 @@ use_preset_vocabulary: false
 躝	ljz
 躝	ljzj
 〇	lkvv
+敹	lnl
+敹	lnlw
 攞	loff
 垅	lstl
 慜	mbpx
@@ -168,6 +170,8 @@ use_preset_vocabulary: false
 嗻	vekh
 凪	vijv
 跩	vkzy
+㨄	vzf
+㨄	vzfk
 揾	wff
 揾	wffm
 喎	wokk

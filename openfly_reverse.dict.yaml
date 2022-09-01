@@ -5,7 +5,7 @@
 
 ---
 name: openfly_reverse
-version: "10.8.9"
+version: "10.9.0"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -2274,9 +2274,9 @@ use_preset_vocabulary: false
 卉	hvu`
 灰	hvu`
 硊	hvu`
-豗	whv`
 虺	hvw`
 珲	hvw`
+豗	hvw`
 翚	hvx`
 恢	hvx`
 辉	hvx`
@@ -4074,6 +4074,7 @@ use_preset_vocabulary: false
 钌	lnj`
 镣	lnj`
 嘹	lnk`
+敹	lnl`
 料	lnm`
 橑	lnm`
 嫽	lnn`
@@ -5757,7 +5758,6 @@ use_preset_vocabulary: false
 鄀	roc`
 爇	roc`
 若	roc`
-挼	fro`
 挼	rof`
 弱	rog`
 婼	ron`
@@ -5817,7 +5817,6 @@ use_preset_vocabulary: false
 睿	rvl`
 枘	rvm`
 瑞	rvw`
-挼	frx`
 挼	rxf`
 润	ryd`
 闰	rym`
@@ -6766,7 +6765,6 @@ use_preset_vocabulary: false
 蔬	uuc`
 菽	uuc`
 澍	uud`
-澍	uud`
 漱	uud`
 沭	uud`
 殊	uud`
@@ -7347,6 +7345,7 @@ use_preset_vocabulary: false
 洲	vzd`
 皱	vzd`
 帚	vze`
+㨄	vzf`
 粥	vzg`
 昼	vzi`
 辀	vzi`
@@ -11598,9 +11597,9 @@ use_preset_vocabulary: false
 卉	hvu`
 灰	hvu`
 硊	hvu`
-豗	whv`
 虺	hvw`
 珲	hvw`
+豗	hvw`
 翚	hvx`
 恢	hvx`
 辉	hvx`
@@ -13398,6 +13397,7 @@ use_preset_vocabulary: false
 钌	lnj`
 镣	lnj`
 嘹	lnk`
+敹	lnl`
 料	lnm`
 橑	lnm`
 嫽	lnn`
@@ -15081,7 +15081,6 @@ use_preset_vocabulary: false
 鄀	roc`
 爇	roc`
 若	roc`
-挼	fro`
 挼	rof`
 弱	rog`
 婼	ron`
@@ -15141,7 +15140,6 @@ use_preset_vocabulary: false
 睿	rvl`
 枘	rvm`
 瑞	rvw`
-挼	frx`
 挼	rxf`
 润	ryd`
 闰	rym`
@@ -16090,7 +16088,6 @@ use_preset_vocabulary: false
 蔬	uuc`
 菽	uuc`
 澍	uud`
-澍	uud`
 漱	uud`
 沭	uud`
 殊	uud`
@@ -16671,6 +16668,7 @@ use_preset_vocabulary: false
 洲	vzd`
 皱	vzd`
 帚	vze`
+㨄	vzf`
 粥	vzg`
 昼	vzi`
 辀	vzi`
@@ -20922,9 +20920,9 @@ use_preset_vocabulary: false
 卉	hv``
 灰	hv``
 硊	hv``
-豗	wh``
 虺	hv``
 珲	hv``
+豗	hv``
 翚	hv``
 恢	hv``
 辉	hv``
@@ -22722,6 +22720,7 @@ use_preset_vocabulary: false
 钌	ln``
 镣	ln``
 嘹	ln``
+敹	ln``
 料	ln``
 橑	ln``
 嫽	ln``
@@ -24405,7 +24404,6 @@ use_preset_vocabulary: false
 鄀	ro``
 爇	ro``
 若	ro``
-挼	fr``
 挼	ro``
 弱	ro``
 婼	ro``
@@ -24465,7 +24463,6 @@ use_preset_vocabulary: false
 睿	rv``
 枘	rv``
 瑞	rv``
-挼	fr``
 挼	rx``
 润	ry``
 闰	ry``
@@ -25414,7 +25411,6 @@ use_preset_vocabulary: false
 蔬	uu``
 菽	uu``
 澍	uu``
-澍	uu``
 漱	uu``
 沭	uu``
 殊	uu``
@@ -25995,6 +25991,7 @@ use_preset_vocabulary: false
 洲	vz``
 皱	vz``
 帚	vz``
+㨄	vz``
 粥	vz``
 昼	vz``
 辀	vz``
@@ -30246,9 +30243,9 @@ use_preset_vocabulary: false
 卉	hv``
 灰	hv``
 硊	hv``
-豗	wh``
 虺	hv``
 珲	hv``
+豗	hv``
 翚	hv``
 恢	hv``
 辉	hv``
@@ -32046,6 +32043,7 @@ use_preset_vocabulary: false
 钌	ln``
 镣	ln``
 嘹	ln``
+敹	ln``
 料	ln``
 橑	ln``
 嫽	ln``
@@ -33729,7 +33727,6 @@ use_preset_vocabulary: false
 鄀	ro``
 爇	ro``
 若	ro``
-挼	fr``
 挼	ro``
 弱	ro``
 婼	ro``
@@ -33789,7 +33786,6 @@ use_preset_vocabulary: false
 睿	rv``
 枘	rv``
 瑞	rv``
-挼	fr``
 挼	rx``
 润	ry``
 闰	ry``
@@ -34738,7 +34734,6 @@ use_preset_vocabulary: false
 蔬	uu``
 菽	uu``
 澍	uu``
-澍	uu``
 漱	uu``
 沭	uu``
 殊	uu``
@@ -35319,6 +35314,7 @@ use_preset_vocabulary: false
 洲	vz``
 皱	vz``
 帚	vz``
+㨄	vz``
 粥	vz``
 昼	vz``
 辀	vz``
@@ -39570,9 +39566,9 @@ use_preset_vocabulary: false
 卉	hv``
 灰	hv``
 硊	hv``
-豗	wh``
 虺	hv``
 珲	hv``
+豗	hv``
 翚	hv``
 恢	hv``
 辉	hv``
@@ -41370,6 +41366,7 @@ use_preset_vocabulary: false
 钌	ln``
 镣	ln``
 嘹	ln``
+敹	ln``
 料	ln``
 橑	ln``
 嫽	ln``
@@ -43053,7 +43050,6 @@ use_preset_vocabulary: false
 鄀	ro``
 爇	ro``
 若	ro``
-挼	fr``
 挼	ro``
 弱	ro``
 婼	ro``
@@ -43113,7 +43109,6 @@ use_preset_vocabulary: false
 睿	rv``
 枘	rv``
 瑞	rv``
-挼	fr``
 挼	rx``
 润	ry``
 闰	ry``
@@ -44062,7 +44057,6 @@ use_preset_vocabulary: false
 蔬	uu``
 菽	uu``
 澍	uu``
-澍	uu``
 漱	uu``
 沭	uu``
 殊	uu``
@@ -44643,6 +44637,7 @@ use_preset_vocabulary: false
 洲	vz``
 皱	vz``
 帚	vz``
+㨄	vz``
 粥	vz``
 昼	vz``
 辀	vz``
@@ -48894,9 +48889,9 @@ use_preset_vocabulary: false
 卉	hv``
 灰	hv``
 硊	hv``
-豗	wh``
 虺	hv``
 珲	hv``
+豗	hv``
 翚	hv``
 恢	hv``
 辉	hv``
@@ -50694,6 +50689,7 @@ use_preset_vocabulary: false
 钌	ln``
 镣	ln``
 嘹	ln``
+敹	ln``
 料	ln``
 橑	ln``
 嫽	ln``
@@ -52377,7 +52373,6 @@ use_preset_vocabulary: false
 鄀	ro``
 爇	ro``
 若	ro``
-挼	fr``
 挼	ro``
 弱	ro``
 婼	ro``
@@ -52437,7 +52432,6 @@ use_preset_vocabulary: false
 睿	rv``
 枘	rv``
 瑞	rv``
-挼	fr``
 挼	rx``
 润	ry``
 闰	ry``
@@ -53386,7 +53380,6 @@ use_preset_vocabulary: false
 蔬	uu``
 菽	uu``
 澍	uu``
-澍	uu``
 漱	uu``
 沭	uu``
 殊	uu``
@@ -53967,6 +53960,7 @@ use_preset_vocabulary: false
 洲	vz``
 皱	vz``
 帚	vz``
+㨄	vz``
 粥	vz``
 昼	vz``
 辀	vz``
@@ -58218,9 +58212,9 @@ use_preset_vocabulary: false
 卉	h```
 灰	h```
 硊	h```
-豗	w```
 虺	h```
 珲	h```
+豗	h```
 翚	h```
 恢	h```
 辉	h```
@@ -60018,6 +60012,7 @@ use_preset_vocabulary: false
 钌	l```
 镣	l```
 嘹	l```
+敹	l```
 料	l```
 橑	l```
 嫽	l```
@@ -61701,7 +61696,6 @@ use_preset_vocabulary: false
 鄀	r```
 爇	r```
 若	r```
-挼	f```
 挼	r```
 弱	r```
 婼	r```
@@ -61761,7 +61755,6 @@ use_preset_vocabulary: false
 睿	r```
 枘	r```
 瑞	r```
-挼	f```
 挼	r```
 润	r```
 闰	r```
@@ -62710,7 +62703,6 @@ use_preset_vocabulary: false
 蔬	u```
 菽	u```
 澍	u```
-澍	u```
 漱	u```
 沭	u```
 殊	u```
@@ -63291,6 +63283,7 @@ use_preset_vocabulary: false
 洲	v```
 皱	v```
 帚	v```
+㨄	v```
 粥	v```
 昼	v```
 辀	v```
@@ -67542,9 +67535,9 @@ use_preset_vocabulary: false
 卉	h```
 灰	h```
 硊	h```
-豗	w```
 虺	h```
 珲	h```
+豗	h```
 翚	h```
 恢	h```
 辉	h```
@@ -69342,6 +69335,7 @@ use_preset_vocabulary: false
 钌	l```
 镣	l```
 嘹	l```
+敹	l```
 料	l```
 橑	l```
 嫽	l```
@@ -71025,7 +71019,6 @@ use_preset_vocabulary: false
 鄀	r```
 爇	r```
 若	r```
-挼	f```
 挼	r```
 弱	r```
 婼	r```
@@ -71085,7 +71078,6 @@ use_preset_vocabulary: false
 睿	r```
 枘	r```
 瑞	r```
-挼	f```
 挼	r```
 润	r```
 闰	r```
@@ -72034,7 +72026,6 @@ use_preset_vocabulary: false
 蔬	u```
 菽	u```
 澍	u```
-澍	u```
 漱	u```
 沭	u```
 殊	u```
@@ -72615,6 +72606,7 @@ use_preset_vocabulary: false
 洲	v```
 皱	v```
 帚	v```
+㨄	v```
 粥	v```
 昼	v```
 辀	v```
@@ -76866,9 +76858,9 @@ use_preset_vocabulary: false
 卉	h```
 灰	h```
 硊	h```
-豗	w```
 虺	h```
 珲	h```
+豗	h```
 翚	h```
 恢	h```
 辉	h```
@@ -78666,6 +78658,7 @@ use_preset_vocabulary: false
 钌	l```
 镣	l```
 嘹	l```
+敹	l```
 料	l```
 橑	l```
 嫽	l```
@@ -80349,7 +80342,6 @@ use_preset_vocabulary: false
 鄀	r```
 爇	r```
 若	r```
-挼	f```
 挼	r```
 弱	r```
 婼	r```
@@ -80409,7 +80401,6 @@ use_preset_vocabulary: false
 睿	r```
 枘	r```
 瑞	r```
-挼	f```
 挼	r```
 润	r```
 闰	r```
@@ -81358,7 +81349,6 @@ use_preset_vocabulary: false
 蔬	u```
 菽	u```
 澍	u```
-澍	u```
 漱	u```
 沭	u```
 殊	u```
@@ -81939,6 +81929,7 @@ use_preset_vocabulary: false
 洲	v```
 皱	v```
 帚	v```
+㨄	v```
 粥	v```
 昼	v```
 辀	v```
@@ -86190,9 +86181,9 @@ use_preset_vocabulary: false
 卉	h```
 灰	h```
 硊	h```
-豗	w```
 虺	h```
 珲	h```
+豗	h```
 翚	h```
 恢	h```
 辉	h```
@@ -87990,6 +87981,7 @@ use_preset_vocabulary: false
 钌	l```
 镣	l```
 嘹	l```
+敹	l```
 料	l```
 橑	l```
 嫽	l```
@@ -89673,7 +89665,6 @@ use_preset_vocabulary: false
 鄀	r```
 爇	r```
 若	r```
-挼	f```
 挼	r```
 弱	r```
 婼	r```
@@ -89733,7 +89724,6 @@ use_preset_vocabulary: false
 睿	r```
 枘	r```
 瑞	r```
-挼	f```
 挼	r```
 润	r```
 闰	r```
@@ -90682,7 +90672,6 @@ use_preset_vocabulary: false
 蔬	u```
 菽	u```
 澍	u```
-澍	u```
 漱	u```
 沭	u```
 殊	u```
@@ -91263,6 +91252,7 @@ use_preset_vocabulary: false
 洲	v```
 皱	v```
 帚	v```
+㨄	v```
 粥	v```
 昼	v```
 辀	v```
@@ -95514,9 +95504,9 @@ use_preset_vocabulary: false
 卉	h```
 灰	h```
 硊	h```
-豗	w```
 虺	h```
 珲	h```
+豗	h```
 翚	h```
 恢	h```
 辉	h```
@@ -97314,6 +97304,7 @@ use_preset_vocabulary: false
 钌	l```
 镣	l```
 嘹	l```
+敹	l```
 料	l```
 橑	l```
 嫽	l```
@@ -98997,7 +98988,6 @@ use_preset_vocabulary: false
 鄀	r```
 爇	r```
 若	r```
-挼	f```
 挼	r```
 弱	r```
 婼	r```
@@ -99057,7 +99047,6 @@ use_preset_vocabulary: false
 睿	r```
 枘	r```
 瑞	r```
-挼	f```
 挼	r```
 润	r```
 闰	r```
@@ -100006,7 +99995,6 @@ use_preset_vocabulary: false
 蔬	u```
 菽	u```
 澍	u```
-澍	u```
 漱	u```
 沭	u```
 殊	u```
@@ -100587,6 +100575,7 @@ use_preset_vocabulary: false
 洲	v```
 皱	v```
 帚	v```
+㨄	v```
 粥	v```
 昼	v```
 辀	v```
@@ -104838,9 +104827,9 @@ use_preset_vocabulary: false
 卉	h```
 灰	h```
 硊	h```
-豗	w```
 虺	h```
 珲	h```
+豗	h```
 翚	h```
 恢	h```
 辉	h```
@@ -106638,6 +106627,7 @@ use_preset_vocabulary: false
 钌	l```
 镣	l```
 嘹	l```
+敹	l```
 料	l```
 橑	l```
 嫽	l```
@@ -108321,7 +108311,6 @@ use_preset_vocabulary: false
 鄀	r```
 爇	r```
 若	r```
-挼	f```
 挼	r```
 弱	r```
 婼	r```
@@ -108381,7 +108370,6 @@ use_preset_vocabulary: false
 睿	r```
 枘	r```
 瑞	r```
-挼	f```
 挼	r```
 润	r```
 闰	r```
@@ -109330,7 +109318,6 @@ use_preset_vocabulary: false
 蔬	u```
 菽	u```
 澍	u```
-澍	u```
 漱	u```
 沭	u```
 殊	u```
@@ -109911,6 +109898,7 @@ use_preset_vocabulary: false
 洲	v```
 皱	v```
 帚	v```
+㨄	v```
 粥	v```
 昼	v```
 辀	v```
@@ -114162,9 +114150,9 @@ use_preset_vocabulary: false
 卉	h```
 灰	h```
 硊	h```
-豗	w```
 虺	h```
 珲	h```
+豗	h```
 翚	h```
 恢	h```
 辉	h```
@@ -115962,6 +115950,7 @@ use_preset_vocabulary: false
 钌	l```
 镣	l```
 嘹	l```
+敹	l```
 料	l```
 橑	l```
 嫽	l```
@@ -117645,7 +117634,6 @@ use_preset_vocabulary: false
 鄀	r```
 爇	r```
 若	r```
-挼	f```
 挼	r```
 弱	r```
 婼	r```
@@ -117705,7 +117693,6 @@ use_preset_vocabulary: false
 睿	r```
 枘	r```
 瑞	r```
-挼	f```
 挼	r```
 润	r```
 闰	r```
@@ -118654,7 +118641,6 @@ use_preset_vocabulary: false
 蔬	u```
 菽	u```
 澍	u```
-澍	u```
 漱	u```
 沭	u```
 殊	u```
@@ -119235,6 +119221,7 @@ use_preset_vocabulary: false
 洲	v```
 皱	v```
 帚	v```
+㨄	v```
 粥	v```
 昼	v```
 辀	v```
@@ -123486,9 +123473,9 @@ use_preset_vocabulary: false
 卉	h```
 灰	h```
 硊	h```
-豗	w```
 虺	h```
 珲	h```
+豗	h```
 翚	h```
 恢	h```
 辉	h```
@@ -125286,6 +125273,7 @@ use_preset_vocabulary: false
 钌	l```
 镣	l```
 嘹	l```
+敹	l```
 料	l```
 橑	l```
 嫽	l```
@@ -126969,7 +126957,6 @@ use_preset_vocabulary: false
 鄀	r```
 爇	r```
 若	r```
-挼	f```
 挼	r```
 弱	r```
 婼	r```
@@ -127029,7 +127016,6 @@ use_preset_vocabulary: false
 睿	r```
 枘	r```
 瑞	r```
-挼	f```
 挼	r```
 润	r```
 闰	r```
@@ -127978,7 +127964,6 @@ use_preset_vocabulary: false
 蔬	u```
 菽	u```
 澍	u```
-澍	u```
 漱	u```
 沭	u```
 殊	u```
@@ -128559,6 +128544,7 @@ use_preset_vocabulary: false
 洲	v```
 皱	v```
 帚	v```
+㨄	v```
 粥	v```
 昼	v```
 辀	v```
@@ -132810,9 +132796,9 @@ use_preset_vocabulary: false
 卉	````
 灰	````
 硊	````
-豗	````
 虺	````
 珲	````
+豗	````
 翚	````
 恢	````
 辉	````
@@ -134610,6 +134596,7 @@ use_preset_vocabulary: false
 钌	````
 镣	````
 嘹	````
+敹	````
 料	````
 橑	````
 嫽	````
@@ -136294,7 +136281,6 @@ use_preset_vocabulary: false
 爇	````
 若	````
 挼	````
-挼	````
 弱	````
 婼	````
 偌	````
@@ -136353,7 +136339,6 @@ use_preset_vocabulary: false
 睿	````
 枘	````
 瑞	````
-挼	````
 挼	````
 润	````
 闰	````
@@ -137302,7 +137287,6 @@ use_preset_vocabulary: false
 蔬	````
 菽	````
 澍	````
-澍	````
 漱	````
 沭	````
 殊	````
@@ -137883,6 +137867,7 @@ use_preset_vocabulary: false
 洲	````
 皱	````
 帚	````
+㨄	````
 粥	````
 昼	````
 辀	````

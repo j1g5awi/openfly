@@ -6,7 +6,7 @@
 
 ---
 name: openfly.primary
-version: "10.9"
+version: "10.9a"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -232,7 +232,6 @@ use_preset_vocabulary: false
 链接	lmjp
 连同	lmts
 联系	lmxi
-寥寥	lnln
 列支	lpvi
 榴莲	lqlm
 乱象	lrxl

@@ -6,7 +6,7 @@
 
 ---
 name: openfly.embedded.hint
-version: "10.8.9"
+version: "10.9.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -483,7 +483,7 @@ AA制`i	aav
 不早说`o	bzu
 百足之虫，死而不僵`j	bzv
 不作为`w	bzw
-奔走相告`g	bzx
+不在线`m	bzx
 不自在`d	bzz
 擦边`m	cab
 擦擦`a	cac
@@ -529,6 +529,7 @@ AA制`i	aav
 采购`z	cdg
 才华`x	cdh
 财产`j	cdi
+猜到了`e	cdl
 才能`g	cdn
 彩色`e	cds
 踩踏`a	cdt
@@ -1394,7 +1395,6 @@ Excel`e	exc
 怫然不悦`y	frb
 副热带`d	frd
 繁荣富强`q	frf
-翻然悔悟`w	frh
 繁荣昌盛`u	fri
 缝纫机`i	frj
 肤如凝脂`v	frn
@@ -1445,7 +1445,7 @@ Excel`e	exc
 复习复习`x	fxf
 方向感`j	fxg
 逢凶化吉`j	fxh
-法学家`x	fxj
+抚恤金`b	fxj
 发现了`e	fxl
 焚香沐浴`y	fxm
 方向盘`j	fxp
@@ -1776,6 +1776,7 @@ Excel`e	exc
 哈喽`z	hal
 蛤蟆`a	ham
 哈欠`m	haq
+海岸线`m	hax
 汉堡包`c	hbb
 还不错`o	hbc
 恨不得`e	hbd
@@ -1900,7 +1901,6 @@ Excel`e	exc
 坏了`e	hkl
 很可能`g	hkn
 海阔凭鱼跃`y	hkp
-坏人`f	hkr
 坏死`i	hks
 坏事`i	hku
 怀中`s	hkv
@@ -1970,6 +1970,7 @@ Excel`e	exc
 回去了`e	hql
 含情脉脉`m	hqm
 黑漆漆`i	hqq
+核潜艇`k	hqt
 换气扇`j	hqu
 后起之秀`x	hqv
 豪情万丈`v	hqw
@@ -2079,6 +2080,7 @@ Excel`e	exc
 除暴安良`l	iba
 吃不饱`c	ibb
 差不多`o	ibd
+吃白饭`j	ibf
 吃不惯`r	ibg
 吃饱喝足`z	ibh
 吃不吃`i	ibi
@@ -2308,7 +2310,6 @@ Excel`e	exc
 查无实据`j	iwu
 颤巍巍`w	iww
 储物箱`l	iwx
-成为一个`g	iwy
 插线板`j	ixb
 乘虚而入`r	ixe
 吃闲饭`j	ixf
@@ -2743,6 +2744,7 @@ Excel`e	exc
 克难攻坚`j	kng
 困难户`u	knh
 困难重重`i	kni
+看腻了`e	knl
 可能吗`a	knm
 可能是`i	knu
 可能性`k	knx
@@ -2789,6 +2791,7 @@ Excel`e	exc
 宽裕`u	kry
 空白`d	ksb
 空仓`h	ksc
+空挡`h	ksd
 恐慌`l	ksh
 空车`e	ksi
 空间`m	ksj
@@ -3110,6 +3113,7 @@ Excel`e	exc
 拉下去`u	lxq
 旅行团`r	lxt
 两小时`i	lxu
+老想着`e	lxv
 两小无猜`c	lxw
 连续性`k	lxx
 略逊一筹`i	lxy
@@ -3155,7 +3159,6 @@ Excel`e	exc
 冒出`u	mci
 毛绒`s	mcr
 矛头`z	mct
-贸易`i	mcy
 帽子`i	mcz
 迈步`u	mdb
 谋定而后动`d	mde
@@ -3480,6 +3483,7 @@ Excel`e	exc
 拿到了`e	ndl
 奶瓶`k	ndp
 奶糖`h	ndt
+耐心`b	ndx
 耐用`s	ndy
 奶嘴`v	ndz
 男儿当自强`q	ned
@@ -3799,7 +3803,7 @@ Excel`e	exc
 抛售`z	pcu
 炮制`i	pcv
 跑完`j	pcw
-咆哮`n	pcx
+抛下`x	pcx
 泡影`k	pcy
 拍案`n	pda
 跑单帮`h	pdb
@@ -4149,6 +4153,7 @@ Excel`e	exc
 晴天`m	qkt
 清早`c	qkz
 千里鹅毛`m	qle
+前两个`e	qlg
 强烈`p	qll
 强求`q	qlq
 千里送鹅毛`m	qls
@@ -4216,6 +4221,7 @@ Excel`e	exc
 确认`f	qtr
 缺损`y	qts
 确诊`f	qtv
+缺位`w	qtw
 却又`z	qty
 确凿`c	qtz
 区分`f	quf
@@ -4450,7 +4456,6 @@ Excel`e	exc
 扰乱视听`t	rlu
 人老珠黄`h	rlv
 日理万机`j	rlw
-人类学`t	rlx
 热泪盈眶`k	rly
 人力资源`y	rlz
 人民币`i	rmb
@@ -5022,7 +5027,6 @@ Excel`e	exc
 躺着`e	thv
 提高`c	tig
 体会`v	tih
-提出来`d	til
 提前`m	tiq
 体贴`p	tit
 探测`e	tjc
@@ -5124,7 +5128,7 @@ Excel`e	exc
 同日而语`y	tre
 团购`z	trg
 泰然处之`v	tri
-湍流`q	trl
+太弱了`e	trl
 甜如蜜`i	trm
 天然气`i	trq
 坦然受之`v	tru
@@ -5186,7 +5190,6 @@ Excel`e	exc
 天文台`d	twt
 台湾省`g	twu
 体无完肤`f	tww
-天文学`t	twx
 贪心不足`z	txb
 天下苍生`u	txc
 剃须刀`c	txd
@@ -5226,7 +5229,7 @@ Excel`e	exc
 头昏`y	tzh
 透彻`e	tzi
 投机`i	tzj
-透露`u	tzl
+太早了`e	tzl
 透明`k	tzm
 头脑`c	tzn
 投票`n	tzp
@@ -5318,6 +5321,7 @@ Excel`e	exc
 上屏`k	uhp
 耍花腔`l	uhq
 上演`j	uhy
+尚在`d	uhz
 失色`e	uis
 煽情`k	ujq
 闪人`f	ujr
@@ -5354,7 +5358,6 @@ Excel`e	exc
 说了算`r	uls
 水龙头`z	ult
 爽直`i	ulv
-生理学`t	ulx
 双足`u	ulz
 睡眠不足`z	umb
 鼠目寸光`g	umc
@@ -5861,6 +5864,7 @@ Excel`e	exc
 望而却步`b	weq
 望而生畏`w	weu
 万恶之源`y	wev
+沃尔沃`o	wew
 望而兴叹`t	wex
 莞尔一笑`x	wey
 闻风而动`d	wfe
@@ -5947,7 +5951,6 @@ Excel`e	exc
 玩两天`m	wlt
 无立锥之地`d	wlv
 问了问`f	wlw
-物理学`t	wlx
 五粮液`e	wly
 萎靡不振`v	wmb
 妩媚动人`r	wmd
@@ -5968,7 +5971,7 @@ Excel`e	exc
 问牛答马`m	wnd
 窝囊废`w	wnf
 万能键`m	wnj
-万年历`i	wnl
+玩腻了`e	wnl
 未能免俗`s	wnm
 窝囊气`i	wnq
 温暖如春`i	wnr
@@ -6344,7 +6347,7 @@ Excel`e	exc
 瞎琢磨`o	xzm
 协奏曲`u	xzq
 闲杂人`f	xzr
-写字台`d	xzt
+选择题`i	xzt
 削足适履`l	xzu
 选择性`k	xzx
 写作业`e	xzy
@@ -6616,6 +6619,7 @@ Excel`e	exc
 咋地`i	zad
 咋搞`c	zag
 杂货`o	zah
+咋了`e	zal
 杂毛`c	zam
 杂念`m	zan
 杂牌`d	zap
@@ -6639,7 +6643,6 @@ Excel`e	exc
 坐不住`u	zbv
 自北向南`n	zbx
 赞比亚`a	zby
-在不在`d	zbz
 糟糕`c	zcg
 早年`m	zcn
 早盘`j	zcp
@@ -6711,6 +6714,7 @@ Excel`e	exc
 走火入魔`m	zhr
 葬送`s	zhs
 最后通牒`d	zht
+咋回事`i	zhu
 综合性`k	zhx
 藏语`u	zhy
 藏族`u	zhz
@@ -6802,6 +6806,7 @@ Excel`e	exc
 总得`w	zsd
 总额`e	zse
 总分`f	zsf
+总归`v	zsg
 子孙后代`d	zsh
 总称`g	zsi
 总括`o	zsk
@@ -6849,6 +6854,7 @@ Excel`e	exc
 最能`g	zvn
 最怕`a	zvp
 自治区`u	zvq
+罪人`f	zvr
 醉态`d	zvt
 杂志社`e	zvu
 最为`w	zvw
